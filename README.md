@@ -1,6 +1,5 @@
 # EDn
 EDn: A Self-Supporting Education Network
-EDn: A Self-Supporting Education Network
 
 Undereducated World: A System Of Global Self-Destruction Via Privatized Knowledge & How To Evolve Beyond Dark-Age Tactics
 
